@@ -53,7 +53,7 @@ var options = {
     coerce: false,
     sanitize: true,
     trim: true,
-    arrayNotation: false
+    arrayNotation: false,
     alternateTextNode: false
 };
 ```
